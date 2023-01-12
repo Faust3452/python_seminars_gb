@@ -1,0 +1,62 @@
+08-01-2023 23:01:36 -> bot started!
+08-01-2023 23:02:01 -> bot started!
+08-01-2023 23:02:02 -> message from: UID: 376018529, username: Faust7296, message ID: 389, text: da
+08-01-2023 23:02:02 -> reply for: UID: 376018529, username: Faust7296, message ID: 389, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:02 -> message from: UID: 376018529, username: Faust7296, message ID: 390, text: d
+08-01-2023 23:02:02 -> reply for: UID: 376018529, username: Faust7296, message ID: 390, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:02 -> message from: UID: 376018529, username: Faust7296, message ID: 391, text: w
+08-01-2023 23:02:02 -> reply for: UID: 376018529, username: Faust7296, message ID: 391, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:02 -> message from: UID: 376018529, username: Faust7296, message ID: 392, text: s
+08-01-2023 23:02:02 -> reply for: UID: 376018529, username: Faust7296, message ID: 392, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:02 -> message from: UID: 376018529, username: Faust7296, message ID: 393, text: das
+08-01-2023 23:02:02 -> reply for: UID: 376018529, username: Faust7296, message ID: 393, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:02 -> message from: UID: 376018529, username: Faust7296, message ID: 394, text: d
+08-01-2023 23:02:02 -> reply for: UID: 376018529, username: Faust7296, message ID: 394, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:02 -> message from: UID: 376018529, username: Faust7296, message ID: 395, text: ad
+08-01-2023 23:02:02 -> reply for: UID: 376018529, username: Faust7296, message ID: 395, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:02 -> message from: UID: 376018529, username: Faust7296, message ID: 396, text: wqw
+08-01-2023 23:02:02 -> reply for: UID: 376018529, username: Faust7296, message ID: 396, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:02 -> message from: UID: 376018529, username: Faust7296, message ID: 397, text: wdq
+08-01-2023 23:02:02 -> reply for: UID: 376018529, username: Faust7296, message ID: 397, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:02 -> message from: UID: 376018529, username: Faust7296, message ID: 398, text: w
+08-01-2023 23:02:02 -> reply for: UID: 376018529, username: Faust7296, message ID: 398, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:02 -> message from: UID: 376018529, username: Faust7296, message ID: 399, text: dqwdq
+08-01-2023 23:02:02 -> reply for: UID: 376018529, username: Faust7296, message ID: 399, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:02 -> message from: UID: 376018529, username: Faust7296, message ID: 400, text: wqd
+08-01-2023 23:02:02 -> reply for: UID: 376018529, username: Faust7296, message ID: 400, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:02 -> message from: UID: 376018529, username: Faust7296, message ID: 401, text: wqdwd
+08-01-2023 23:02:02 -> reply for: UID: 376018529, username: Faust7296, message ID: 401, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:02 -> message from: UID: 376018529, username: Faust7296, message ID: 402, text: q
+08-01-2023 23:02:02 -> reply for: UID: 376018529, username: Faust7296, message ID: 402, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:03 -> message from: UID: 376018529, username: Faust7296, message ID: 403, text: wdq
+08-01-2023 23:02:03 -> reply for: UID: 376018529, username: Faust7296, message ID: 403, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:03 -> message from: UID: 376018529, username: Faust7296, message ID: 404, text: wqd
+08-01-2023 23:02:03 -> reply for: UID: 376018529, username: Faust7296, message ID: 404, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:02:14 -> message from: UID: 376018529, username: Faust7296, message ID: 421, text: /start
+08-01-2023 23:02:14 -> reply for: UID: 376018529, username: Faust7296, message ID: 421, reply: Welcome text of /start command
+08-01-2023 23:13:05 -> bot started!
+08-01-2023 23:13:08 -> message from: UID: 376018529, username: Faust7296, message ID: 424, text: /log
+08-01-2023 23:13:08 -> reply for: UID: 376018529, username: Faust7296, message ID: 424, reply: LOG showed
+08-01-2023 23:13:12 -> message from: UID: 376018529, username: Faust7296, message ID: 426, text: f
+08-01-2023 23:13:12 -> reply for: UID: 376018529, username: Faust7296, message ID: 426, reply: User decided not to look at LOG
+08-01-2023 23:13:14 -> message from: UID: 376018529, username: Faust7296, message ID: 427, text: d
+08-01-2023 23:13:14 -> reply for: UID: 376018529, username: Faust7296, message ID: 427, reply: Вы ввели что-то, что бот не в силах понять! Для помощи введите /start или /help
+08-01-2023 23:13:15 -> message from: UID: 376018529, username: Faust7296, message ID: 429, text: /start
+08-01-2023 23:13:15 -> reply for: UID: 376018529, username: Faust7296, message ID: 429, reply: Welcome text of /start command
+08-01-2023 23:13:17 -> message from: UID: 376018529, username: Faust7296, message ID: 431, text: /log
+08-01-2023 23:13:17 -> reply for: UID: 376018529, username: Faust7296, message ID: 431, reply: LOG showed
+08-01-2023 23:13:20 -> message from: UID: 376018529, username: Faust7296, message ID: 433, text: start
+08-01-2023 23:13:20 -> reply for: UID: 376018529, username: Faust7296, message ID: 433, reply: 08-01-2023 23:13:17 -> reply for: UID: 376018529, username: Faust7296, message ID: 431, reply: LOG showed
+
+08-01-2023 23:13:25 -> message from: UID: 376018529, username: Faust7296, message ID: 435, text: next
+08-01-2023 23:13:25 -> reply for: UID: 376018529, username: Faust7296, message ID: 435, reply: 08-01-2023 23:13:17 -> message from: UID: 376018529, username: Faust7296, message ID: 431, text: /log
+
+08-01-2023 23:13:28 -> message from: UID: 376018529, username: Faust7296, message ID: 437, text: next
+08-01-2023 23:13:28 -> reply for: UID: 376018529, username: Faust7296, message ID: 437, reply: 08-01-2023 23:13:15 -> reply for: UID: 376018529, username: Faust7296, message ID: 429, reply: Welcome text of /start command
+
+08-01-2023 23:13:36 -> message from: UID: 376018529, username: Faust7296, message ID: 439, text: next
+08-01-2023 23:13:36 -> reply for: UID: 376018529, username: Faust7296, message ID: 439, reply: 08-01-2023 23:13:15 -> message from: UID: 376018529, username: Faust7296, message ID: 429, text: /start
+
+08-01-2023 23:13:40 -> message from: UID: 376018529, username: Faust7296, message ID: 441, text: s
+08-01-2023 23:13:40 -> reply for: UID: 376018529, username: Faust7296, message ID: 441, reply: LOG's show ended!
+09-01-2023 18:08:58 -> Бот аварийно закончил свою работу!

@@ -1,0 +1,32 @@
+<phonebook>
+	<person>
+		<surname>Иванов</surname>
+		<name>Петр</name>
+		<number>8-916-300-88-56</number>
+		<info>Друг</info>
+	</person>
+	<person>
+		<surname>Петров</surname>
+		<name>Николай</name>
+		<number>8-800-555-3535</number>
+		<info>Лучше позвонить, чем у кого-то занимать</info>
+	</person>
+	<person>
+		<surname>Костиков</surname>
+		<name>Саня</name>
+		<number>8-916-582-64-99</number>
+		<info>самый классный человек</info>
+	</person>
+	<person>
+		<surname>Максимов</surname>
+		<name>Егор</name>
+		<number>8-926-354-60-28</number>
+		<info>босс</info>
+	</person>
+	<person>
+		<surname>Михайлов</surname>
+		<name>Сергей</name>
+		<number>8-505-789-90-88</number>
+		<info>Дружище</info>
+	</person>
+</phonebook>
